@@ -1,0 +1,7 @@
+README.md
+setup.py
+formatword_pkg/__init__.py
+formatword_pkg_tobdu399.egg-info/PKG-INFO
+formatword_pkg_tobdu399.egg-info/SOURCES.txt
+formatword_pkg_tobdu399.egg-info/dependency_links.txt
+formatword_pkg_tobdu399.egg-info/top_level.txt

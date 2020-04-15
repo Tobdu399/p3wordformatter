@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: formatword-pkg-tobdu399
+Version: 0.0.1
+Summary: Python3 Word Formatter
+Home-page: https://github.com/tobdu399/p3wordformatter
+Author: Topias Niiranen
+Author-email: topias.j.m@gmail.com
+License: UNKNOWN
+Description: This is a Python3 Word Formatter. Pwf can format any word to start with an
+        uppercase letter and the rest of the letters to be in lowercase. Feel free
+        to improvize my package as you like.
+        
+        https://github.com/Tobdu399/p3wordformatter
+        https://github.com/Tobdu399/p3wordformatter.git
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
